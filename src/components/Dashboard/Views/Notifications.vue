@@ -21,15 +21,11 @@
             <span data-notify="message">This is a notification with close button and icon.</span>
           </div>
           <div class="alert alert-info alert-with-icon" data-notify="container">
-            <button type="button" aria-hidden="true" class="close">×</button>
-            <span data-notify="icon" class="ti-pie-chart"></span>
-            <span data-notify="message">This is a notification with close button and icon and have many lines. You can see that the icon and the close button are always vertically aligned. This is a beautiful notification. So you don't have to worry about the style.</span>
           </div>
         </div>
         <div class="col-md-6">
           <h5>Notification states</h5>
           <div class="alert alert-info">
-            <button type="button" aria-hidden="true" class="close">×</button>
             <span>
               <b> Info - </b> This is a regular notification made with ".alert-info"</span>
           </div>
