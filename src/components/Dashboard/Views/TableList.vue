@@ -28,7 +28,13 @@
     country: 'Niger',
     city: 'Oud-Turnhout'
   },
-
+  {
+    id: 2,
+    name: 'Minerva Hooper',
+    salary: '$23,789',
+    country: 'Curaçao',
+    city: 'Sinaai-Waas'
+  },
   {
     id: 3,
     name: 'Sage Rodriguez',
