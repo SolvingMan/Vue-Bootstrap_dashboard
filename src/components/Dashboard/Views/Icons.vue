@@ -20,7 +20,10 @@
                 <span class="ti-arrow-right"></span>
                 <span class="icon-name"> ti-arrow-right</span>
               </div>
-          
+              <div class="icon-container">
+                <span class="ti-arrow-left"></span>
+                <span class="icon-name"> ti-arrow-left</span>
+              </div>
               <div class="icon-container">
                 <span class="ti-arrow-down"></span>
                 <span class="icon-name"> ti-arrow-down</span>
