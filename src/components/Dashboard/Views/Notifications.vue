@@ -74,7 +74,7 @@
           </div>
         </div>
         <div class="row">
-          <!-- <div class="col-md-3">
+          <div class="col-md-3">
             <button class="btn btn-default btn-block" @click="notifyVue('bottom', 'left')">Bottom Left</button>
           </div>
           <div class="col-md-3">
@@ -82,7 +82,7 @@
           </div>
           <div class="col-md-3">
             <button class="btn btn-default btn-block" @click="notifyVue('bottom', 'right')">Bottom Right</button>
-          </div> -->
+          </div>
   
         </div>
       </div>
