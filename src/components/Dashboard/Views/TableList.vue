@@ -10,7 +10,7 @@
 
       <div class="col-md-12">
         <div class="card card-plain">
-          <paper-table type="hover" :title="table1.title" :sub-title="table1.subTitle" :data="table1.data" :columns="table1.columns">
+          <!-- <paper-table type="hover" :title="table1.title" :sub-title="table1.subTitle" :data="table1.data" :columns="table1.columns"> -->
 
           </paper-table>
         </div>

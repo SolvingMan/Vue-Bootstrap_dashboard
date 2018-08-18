@@ -15,11 +15,11 @@
             <button type="button" aria-hidden="true" class="close">×</button>
             <span>This is a notification with close button.</span>
           </div>
-          <div class="alert alert-info alert-with-icon" data-notify="container">
+          <!-- <div class="alert alert-info alert-with-icon" data-notify="container">
             <button type="button" aria-hidden="true" class="close">×</button>
             <span data-notify="icon" class="ti-bell"></span>
             <span data-notify="message">This is a notification with close button and icon.</span>
-          </div>
+          </div> -->
           <div class="alert alert-info alert-with-icon" data-notify="container">
             <button type="button" aria-hidden="true" class="close">×</button>
             <span data-notify="icon" class="ti-pie-chart"></span>
